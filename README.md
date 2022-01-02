@@ -9,7 +9,8 @@ We believe that Amerimanga should not be seen as a negative thing, but rather as
 -- Promoting more diversity in art styles.<br />
 -- Alternative means of syndication and self-promotion.<br />
 -- Exploring the limits of text comic formatting rather than word balloons.<br />
--- The development of a self-contained culture and language, generally fictional languages not tied to any present culture.<br />
+-- Exploring all ranges of different monochromalities, ideally using custom color palettes.<br />
+-- A DIY framework of encouraging skills in all aspects of the artistic process including making your own tools.
 -- A charter against harassment like what has happened in previous twitter campaigns.<br />
 
 ## Alternative Syndication
@@ -18,14 +19,11 @@ We seek alternative approaches to syndication rather than through magazines and 
 ## Formats
 The format of text comics haven't been completely explored to find more efficient ways of staying within that format. Wikipedia primarily gets its information based on what established industry professionals are comfortable drawing and what established fandoms. But this isn't where innovation comes from. We seek to represents a new form of text comics that stretches the limits of what you can do with text under, over, and to the side of panels, and not within the panels by route of word balloons and traditional captions.
 
-## Develops Of A Conlang
-You can find the conlang being developed here: [Fraponic Conlang](https://lwflouisa.github.io/FraponicConlang)
-
 ## More Nuance Between Full Color and Monochromality
 I want to support more creative that seek more innovative words of creating a monochrome like effect, but will colors other than black and white. I also want to support Amerimangakas that dont try to limit the conversation to full color media. Such alternative color includes alternative monochrome styles, with ideally custom color palettes not limited to ones you'll find in a watercolor set: redscale, yellowscale, greenscale, the list goes on. Also include is duotone type illustrations.
 
-## Ink Making
-While this section is called ink making, also including is other adjacent processes like pen design, brush making, paper pressing, and other than strongly correlated with art. Ex. The pen, ink, and paper you use has a strong effect in how your art will look.
+## Tool Making
+Encourage a DIY practice of all aspects of the artistic process from making ink, pens, paper, and brushes for your own purposes, rather than limit oneselves purely to the traditional tools for making manga. If you can't make the tool, the tool isn't used. With certain exceptions made for Ink, where homemade ink doesn't always have the same properties.
 
 ## A Charter Against Harassment Of Small Creators
 There needs to be a charter or code against harassment of smaller creators both by Comicsgate and Mainstream comics industry professionals. Older hashtags have perpetuated as much abuse against creators as mainstream comics has, and has in fact become worse over time.
