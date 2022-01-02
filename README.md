@@ -1,22 +1,25 @@
 {%- include style.html -%}
 
-# Amerimanga2p0
-The website promoting the rebirth and revolution of Amerimanga as an independent and self-contained medium with similarities to manga, but with important differences.
-
 ## What We're About
 We believe that Amerimanga should not be seen as a negative thing, but rather as a term of endearment. For so long Amerimanga has been seen as a lesser form of manga that doesn't sell as much as Manga that originates in Japan. Part of our mission is to promote a global manga initiative that is about bringing positivity to the industry, rather than using it for reactionary and Trumpian purposes.
 
-## Initial Goals
--- Promoting more diversity in art styles.<br />
--- Alternative means of syndication and self-promotion.<br />
--- The development of a self-contain culture and language, generally fictional languages not tied to any present culture.<br />
--- A charter against harassment like what has happened in previous twitter campaigns.<br />
+## Alternative Syndication
+We seek alternative approaches to syndication rather than through magazines and webcomic sites, with more reasonable expectations for artists such as not overworking creators. This means publications that select their talent from existing webcomics, rather than developing inhouse content and stagnating innovation, or have characters churn out anything you can't keep up with the amount of series out there.
+
+## Formats
+The format of text comics haven't been completely explored to find more efficient ways of staying within that format. Wikipedia primarily gets its information based on what established industry professionals are comfortable drawing and what established fandoms. But this isn't where innovation comes from. We seek to represents a new form of text comics that stretches the limits of what you can do with text under, over, and to the side of panels, and not within the panels by route of word balloons and traditional captions.
 
 ## Develops Of A Conlang
 You can find the conlang being developed here: [Fraponic Conlang](https://lwflouisa.github.io/FraponicConlang)
 
-## Hashtag
-If you wish to be a part of this revolution in Amerimanga, follow along this hashtag:
+## More Nuance Between Full Color and Monochromality
+I want to support more creative that seek more innovative words of creating a monochrome like effect, but will colors other than black and white. I also want to support Amerimangakas that dont try to limit the conversation to full color media. Such alternative color includes alternative monochrome styles, with ideally custom color palettes not limited to ones you'll find in a watercolor set: redscale, yellowscale, greenscale, the list goes on. Also include is duotone type illustrations.
+
+## Ink Making
+While this section is called ink making, also including is other adjacent processes like pen design, brush making, paper pressing, and other than strongly correlated with art. Ex. The pen, ink, and paper you use has a strong effect in how your art will look.
+
+## A Charter Against Harassment Of Small Creators
+There needs to be a charter or code against harassment of smaller creators both by Comicsgate and Mainstream comics industry professionals. Older hashtags have perpetuated as much abuse against creators as mainstream comics has, and has in fact become worse over time.
 
 # Index Of Hashtags
 #Amerimanga2p0 This is used to promote each other's Amerimanga for the new era of manga.<br />
@@ -25,5 +28,9 @@ If you wish to be a part of this revolution in Amerimanga, follow along this has
 #ambrescale This indicates the color mode of new Amerimanga done in neither full color or greyscale.<br />
 #inkmaking I will be using this to promote people who make their own drawing and writing inks.<br />
 
-# Charter
-Coming Soon
+## Initial Goals
+-- Promoting more diversity in art styles.<br />
+-- Alternative means of syndication and self-promotion.<br />
+-- Exploring the limits of text comic formatting rather than word balloons.
+-- The development of a self-contained culture and language, generally fictional languages not tied to any present culture.<br />
+-- A charter against harassment like what has happened in previous twitter campaigns.<br />
