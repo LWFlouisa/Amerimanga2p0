@@ -8,7 +8,7 @@ We believe that Amerimanga should not be seen as a negative thing, but rather as
 ## Initial Goals
 -- Promoting more diversity in art styles.<br />
 -- Alternative means of syndication and self-promotion.<br />
--- Exploring the limits of text comic formatting rather than word balloons.
+-- Exploring the limits of text comic formatting rather than word balloons.<br />
 -- The development of a self-contained culture and language, generally fictional languages not tied to any present culture.<br />
 -- A charter against harassment like what has happened in previous twitter campaigns.<br />
 
